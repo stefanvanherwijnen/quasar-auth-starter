@@ -1,0 +1,18 @@
+{
+	"verification_email": {
+		"subject": "Please verify your account",
+		"title": "Welcome to {{name}}.",
+		"body": "In order to make sure that this is a valid email address, you will have to verify your account. After verification you will be able to login with the password you have set at registration.",
+		"button": "Verify"
+	},
+	"password_forgot_email": {
+		"subject": "You have requested a new password",
+		"title": "Password reset",
+		"body": "In order to set a new password, please click the button below.",
+		"button": "Reset password"
+	},
+    "verification": {
+        "success": "Verification successful.",
+        "failed": "Verification failed or already verified."
+    }
+}
