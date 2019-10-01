@@ -1,0 +1,38 @@
+{
+  "name": "quasar-auth-starter",
+  "version": "0.0.1",
+  "description": "Starter kit for Quasar with authentication",
+  "productName": "Quasar Auth Starter",
+  "cordovaId": "org.cordova.quasar.app",
+  "author": "Stefan <stefan@devliert.info>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.0",
+    "quasar": "^1.0.0",
+    "vue-i18n": "^7.3.3",
+    "vuelidate": "^0.7.4",
+    "jsonapi-vuex": "^1.2.1"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0",
+    "quasar-app-extension-auth-token-based": "^0.2.1"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}

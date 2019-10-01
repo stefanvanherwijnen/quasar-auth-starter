@@ -1,0 +1,11 @@
+{
+  "auth-token-based": {
+    "register_route": "/auth/register",
+    "verification_route": "/auth/verify",
+    "login_route": "/auth/login",
+    "password_forgot_route": "/auth/password/forgot",
+    "password_reset_route": "/auth/password/reset",
+    "fetch_user_route": "/auth/user",
+    "superuser_functionality": true
+  }
+}
