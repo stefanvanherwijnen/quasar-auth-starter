@@ -29,7 +29,7 @@
     "i18n": "^0.8.3",
     "is-email": "^1.0.0",
     "json-api-serializer": "https://github.com/stefanvanherwijnen/json-api-serializer#relationship",
-    "knex": "^0.19.1",
+    "knex": "^0.19.5",
     "morgan": "^1.9.1",
     "nodemailer": "^6.3.0",
     "objection": "^1.6.9",
