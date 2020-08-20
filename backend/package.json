@@ -15,7 +15,7 @@
     "configure": "babel-node --presets @babel/env,@babel/typescript --extensions '.js,.jsx,.ts,.tsx' console/configure.js"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "commander": "^2.20.0",
     "cors": "^2.8.5",
