@@ -35,7 +35,7 @@
     "objection": "^1.6.9",
     "paseto.js": "https://github.com/stefanvanherwijnen/paseto.js",
     "pino": "^5.13.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "randomstring": "^1.1.5",
     "sqlite3": "^4.0.9",
     "superstruct": "^0.6.1",
