@@ -3643,10 +3643,10 @@ is-descriptor@^1.0.0, is-descriptor@^1.0.2:
     is-data-descriptor "^1.0.0"
     kind-of "^6.0.2"
 
-is-email@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/is-email/-/is-email-1.0.0.tgz#6e02d4145dd6246fa05eea16bfe0b2b843ac2802"
-  integrity sha1-bgLUFF3WJG+gXuoWv+CyuEOsKAI=
+is-email@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/is-email/-/is-email-1.0.1.tgz#6f98c0ab6a0e3936dc4da7f2ab334f7faebbaa56"
+  integrity sha512-/+OIyLQ3Vg37svRz0sbw2UIxC0jdVKnIlBJ2BMzDf/xi4wThTel1plETP/+KSyarKgxluljIzJCYjzuvSnANfA==
 
 is-expression@^3.0.0:
   version "3.0.0"

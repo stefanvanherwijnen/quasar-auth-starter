@@ -27,7 +27,7 @@
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "i18n": "^0.8.3",
-    "is-email": "^1.0.0",
+    "is-email": "^1.0.1",
     "json-api-serializer": "https://github.com/stefanvanherwijnen/json-api-serializer#relationship",
     "knex": "^0.19.5",
     "morgan": "^1.9.1",
